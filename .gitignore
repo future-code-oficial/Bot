@@ -1,0 +1,8 @@
+# Private file
+settings.json
+
+# Dependency directory
+node_modules
+
+# Ignore yarn.lock
+yarn.lock
